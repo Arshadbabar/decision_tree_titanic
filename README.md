@@ -4,9 +4,8 @@ This project predicts passenger survival on the Titanic dataset using **Logistic
 
 ##  Project Overview
 The goal of this project is to improve model performance using:
-- Logistic Regression
+- DecisionTree Classifier
 - GridSearchCV
-- RandomizedSearchCV
 - Cross Validation
 
 ## 🛠 Technologies Used
